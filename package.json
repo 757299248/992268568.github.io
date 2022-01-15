@@ -19,7 +19,7 @@
   "homepage": "https://github.com/kkocdko/kblog#readme",
   "dependencies": {
     "file-system": "^2.2.2",
-    "marked": "^0.8.2",
+    "marked": "^4.0.10",
     "html-minifier-terser": "^5.0.5",
     "clean-css": "^4.2.3",
     "terser": "^4.6.10"
